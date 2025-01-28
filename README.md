@@ -8,12 +8,7 @@ Make sure you have installed all of the following prerequisites on your developm
 * Node.js - [Download & Install Node.js](https://nodejs.org/en/download/) and the npm package manager. If you encounter any problems, you can also use this [GitHub Gist](https://gist.github.com/isaacs/579814) to install Node.js.
 
 
-## Cloning The GitHub Repository
-The recommended way to get this repo clone is to use git to directly clone the repository:
 
-```bash
-$ git clone https://github.com/nisabmohd/Instagram-mern.git
-```
 
 ## Environment variables React setup 
 create .env file in frontend/src
@@ -52,7 +47,7 @@ $ node server.js
 
 &#8594; To start the client app
 ```bash
-$ cd client
+$ cd backend
 $ npm start
 ```
 
